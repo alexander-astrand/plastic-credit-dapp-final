@@ -260,7 +260,7 @@ export default {
       }
 
       let denom = this.denom;
-      let amountToWrap = this.selectedAmount; // Ensure this is bound correctly
+      let amountToWrap = this.selectedAmount;
       const address = this.walletAddress;
 
       try {
